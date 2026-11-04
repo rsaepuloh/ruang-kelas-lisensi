@@ -1,12 +1,11 @@
 {
   "payload": {
     "tipe": "daftar-berlaku",
-    "diterbitkan": "2026-11-04T04:07:29.709Z",
+    "diterbitkan": "2026-11-04T04:22:53.484Z",
     "penerima": {
-      "bu-jasmine-20261212": "2026-12-12",
-      "nuni-20261105": "2026-11-05"
+      "desmond-sentana-20261105": "2026-11-05"
     }
   },
-  "tanda_tangan": "4omyGnT8HoLI1u3BUIDIqqjWKreFhDVo+lbQcA2qn7H381Te7yhgEOp7/ex2bOIfifqegzNq4JJ+kLLTUMUCCQ==",
+  "tanda_tangan": "1iyvh3tDEAJ4painQrsxJvvuumkIjeUHgJFdNdcsEQ4R9wz3osKHnZ+NzAdC+1DYa9NtE4dU1KwCkybtI3/YAQ==",
   "sidik_kunci": "9aa3eceb2c79b18b"
 }
