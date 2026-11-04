@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "tipe": "daftar-berlaku",
+    "diterbitkan": "2026-11-04T04:07:29.709Z",
+    "penerima": {
+      "bu-jasmine-20261212": "2026-12-12",
+      "nuni-20261105": "2026-11-05"
+    }
+  },
+  "tanda_tangan": "4omyGnT8HoLI1u3BUIDIqqjWKreFhDVo+lbQcA2qn7H381Te7yhgEOp7/ex2bOIfifqegzNq4JJ+kLLTUMUCCQ==",
+  "sidik_kunci": "9aa3eceb2c79b18b"
+}
